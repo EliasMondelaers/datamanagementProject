@@ -32,3 +32,7 @@ All datasets have to be downloaded.
 
 
 Further discussion of the results can be found in the notebooks.
+
+## Link to used Kaggle dataset
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data
+
